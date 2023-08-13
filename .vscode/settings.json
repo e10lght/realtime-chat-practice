@@ -1,0 +1,8 @@
+{
+  "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "reactSnippets.settings.prettierEnabled": false,
+  "prettier.configPath": ".prettierrc"
+}
